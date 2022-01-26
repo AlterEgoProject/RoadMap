@@ -7,9 +7,10 @@
 YouTubeのライブ配信( https://www.youtube.com/c/AlterEgoProject/live )で実際にプログラムを動かしていて、現在「あつまれ どうぶつの森」のプレイを題材に学習機構などの構築を目指しています。
 
 # 進捗
-![Roadmap Image](img/roadmap4roadmap.png)
+![Roadmap Image](milestones/00_roadmap4roadmap/img/roadmap4roadmap.png)
 
-# ロードマップ4ロードマップ (22/01/16)
+# ロードマップ4ロードマップ (22/01/26)
+
 **プロジェクトの進め方の決定**
 - [x] マイルストーンの設定
     - 電脳生物の完成 << 電脳生物の雛形 (進化・学習環境) < 感情・ 記憶機構 < 各種入出力
@@ -32,8 +33,11 @@ YouTubeのライブ配信( https://www.youtube.com/c/AlterEgoProject/live )で�
 - [x] 開発環境との連携
     - ローカルへクローン
     - PyCharm との連携
-- [ ] フォルダ構成のフォーマット
-    - マイルストーン/中目標/小目標?
+- [x] フォルダ構成のフォーマット
+    - マイルストーン毎にフォルダ分け
+    - 「00_ロードマップ」のように
+    - 以降も小目標に応じたフォルダ作成
+    - フォルダ間で共通するデータは共通フォルダへ
 - [x] SNS共有時の見え方の調整
     - 進捗画像の変更 ( https://github.com/AlterEgoProject/RoadMap/settings )
     - Twitter Card の更新 ( https://cards-dev.twitter.com/validator )
