@@ -43,4 +43,4 @@ YouTubeのライブ配信( https://www.youtube.com/c/AlterEgoProject/live )で�
     - Twitter Card の更新 ( https://cards-dev.twitter.com/validator )
 
 **ビジュアル化**
-- [ ] ロードマップの画像作成
+- [x] ロードマップの画像作成
