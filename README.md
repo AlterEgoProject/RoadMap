@@ -9,7 +9,7 @@ YouTubeのライブ配信( https://www.youtube.com/c/AlterEgoProject/live )で�
 # 進捗
 
 # ロードマップ4ロードマップ (22/02/04)
-![Roadmap Image](milestones/00_roadmap4roadmap/img/roadmap4roadmap.png)
+![Roadmap Image](img/00_roadmap4roadmap.png)
 <details>
 <summary>プロジェクトの進め方の決定</summary>
 <pre>
