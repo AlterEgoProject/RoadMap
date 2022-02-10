@@ -1,15 +1,6 @@
-# 電脳生物へのロードマップ
-
-**プログラムに人間のようにゲームを遊んで欲しい**
-
-という方向性で電脳生物を開発しています。
-
-YouTubeのライブ配信( https://www.youtube.com/c/AlterEgoProject/live )で実際にプログラムを動かしていて、現在「あつまれ どうぶつの森」のプレイを題材に学習機構などの構築を目指しています。
-
-# 進捗
-![Roadmap Image](../../img/00_roadmap4roadmap.png)
-
 # ロードマップ4ロードマップ (22/02/04)
+
+![Roadmap Image](../../img/00_roadmap4roadmap.png)
 
 **プロジェクトの進め方の決定**
 - [x] マイルストーンの設定
