@@ -44,9 +44,6 @@ class Websocket_Client():
             input_data = input("send data:")
             self.ws.send(input_data)
 
-        self.ws.close()
-        print("thread terminating...")
-
     # websocketクライアント起動
     def run_forever(self):
         self.ws.run_forever()
