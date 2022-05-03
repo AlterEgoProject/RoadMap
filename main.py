@@ -4,7 +4,8 @@ from system import youtubeStream
 def main():
     # 配信の制御
     streaming = youtubeStream.Streaming()
-    streaming.update_page()
+    while True:
+        streaming.update_page()
     print()
 
 
