@@ -51,7 +51,7 @@ class GetChat:
                 continue
             temp_a = action['addChatItemAction']['item']['liveChatTextMessageRenderer']
             chats.append({
-                'text': temp_a['message']['runs'][0]['text'],
+                'text': ''.join([row['text'] for row in temp_a['message']['runs']]),
                 'name': temp_a['authorName']['simpleText'],
                 'channel': temp_a['authorExternalChannelId'],
                 'id': temp_a['id'],
@@ -64,6 +64,7 @@ class GetChat:
 if __name__ == '__main__':
     from time import sleep
     getChat = GetChat()
+    chats = getChat.get()
     for _ in range(1000):
         sleep(1)
         [print(chat['text']) for chat in getChat.get()]
