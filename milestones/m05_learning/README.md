@@ -4,6 +4,7 @@
 
 あくまで電脳生物を教育するためのもの。
 
-
-
 # 進捗
+
+![Roadmap Image](../../img/05_01_supervisorModel.png)
+
